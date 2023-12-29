@@ -34,6 +34,7 @@ https://asia-northeast3-fir-142cf.cloudfunctions.net/movieAPI/api/html-lecture
 ### 4. Youtube API 엔드포인트를 반환하는 API (POST 요청)
 
 https://asia-northeast3-fir-142cf.cloudfunctions.net/movieAPI/api/lecture-youtube-link
+
 body: {lectureId: number}
 
 ## 배포된 도메인
